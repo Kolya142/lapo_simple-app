@@ -1,0 +1,12 @@
+{
+"language": "c++",
+"compiler_args": "",
+"includes": {
+    "jppd": ["src/"],
+    "jppf": [],
+    "cppd": [],
+    "cppf": []
+},
+"output_dir": "app",
+"macros": []
+}
